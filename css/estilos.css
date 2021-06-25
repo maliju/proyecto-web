@@ -1,0 +1,23 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+body{
+    
+    font-family: "Tahoma";
+}
+
+#principal{
+    width: 50%;
+    margin-left: auto;
+    margin-right:auto;
+    color:deeppink;
+}
+
+h1{
+    text-shadow: 5px 5px 3px #ccc;
+    color: seagreen;
+    font-size: 3em;
+    margin-bottom: 40px;
+}
